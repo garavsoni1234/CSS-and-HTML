@@ -1,0 +1,13 @@
+body{
+    background-image: url("TheUltimateBoardGame.jpg");
+     background-size: 100%;
+
+}
+.start{
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    left:100px;
+    right:100px;
+    padding: 10px;
+}

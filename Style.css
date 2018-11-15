@@ -1,0 +1,47 @@
+.total{
+    background-color: red;
+}
+.pointer {
+    cursor: pointer;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+.white:hover{
+    background-color:yellow;
+}
+.black:hover{
+    background-color:red;
+}
+.help{
+    position: absolute;
+    right: 0;
+}
+body{
+    background-image: url(chess-pawn-king.jpg);
+    background-size: 1200px 900px;
+}
+h1.chess{
+    font-weight: bold;
+}
+h1.checkers{
+    font-weight: bold;
+}
+h1.player{
+    font-weight: bold;
+    position: absolute;
+    right: 100%;
+}
+h1.CPU{
+     font-weight: bold;
+     position: absolute;
+     right: 1005;
+}
+
+.difficulty{
+        margin-top:100px;
+}
